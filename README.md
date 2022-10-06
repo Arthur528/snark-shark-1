@@ -18,7 +18,7 @@ A summary of time schedule forecasting working days which are to be available to
 
 Work Day Scheduler URL:
 
-
+https://arthur528.github.io/snark-shark-1/
 
 GitHub:
 
